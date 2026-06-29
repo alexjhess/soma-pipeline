@@ -53,3 +53,21 @@ data/*
 
 # .gitkeep files to keep dummy folders
 !*.gitkeep
+
+# History files and user configurations
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Packages and local environments
+renv/library/
+renv/staging/
+renv/sandbox/
+
+# DATA SECURITY: Ignore all raw JSON database dumps completely
+*.json
+
+# OS specific files
+.DS_Store
+Thumbs.db
