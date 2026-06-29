@@ -49,4 +49,7 @@ po/*~
 rsconnect/
 
 # Data files
-/data/*
+data/*
+
+# .gitkeep files to keep dummy folders
+!*.gitkeep
