@@ -1,0 +1,8 @@
+# config.yml
+default:
+  data_dir: "data"
+  users_file: "users_20260316.json"
+  studies_file: "studies_20260316.json"
+  responses_file: "responses_20260316.json"
+  
+  
