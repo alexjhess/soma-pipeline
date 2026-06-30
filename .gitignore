@@ -48,8 +48,9 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-# Data files
+# Data files and figures
 data/*
+figures/*
 
 # .gitkeep files to keep dummy folders
 !*.gitkeep
