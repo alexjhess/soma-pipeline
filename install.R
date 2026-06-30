@@ -20,6 +20,7 @@ renv::install("tidyverse")
 renv::install("jsonlite")
 renv::install("lubridate")
 renv::install("config")  # Added for path management
+renv::install("ggupset")
 
 # 4. Save the exact versions to the lockfile
 renv::snapshot(prompt = FALSE)
